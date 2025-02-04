@@ -21,5 +21,5 @@ Voici un aperçu des différentes pages présentes sur le site :
 - **resultats.html** : Analyse des résultats obtenus à partir de la simulation, avec des statistiques, observations et interprétations sur le comportement des petites bêtes dans l’environnement simulé.  
 
 Le site est accessible en ligne aux adresses suivantes :  
-🔗 [Version hébergée par Ines Yousfi](https://ines-ysfi.github.io/InesYousfi/)  
-🔗 [Version hébergée par Lisa Ouyahia](https://lisaouy.github.io/lisaouyahia/) 
+ - [Version hébergée par Ines Yousfi](https://ines-ysfi.github.io/InesYousfi/)  
+ - [Version hébergée par Lisa Ouyahia](https://lisaouy.github.io/lisaouyahia/) 
