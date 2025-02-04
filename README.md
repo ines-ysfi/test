@@ -20,5 +20,6 @@ Voici un aperçu des différentes pages présentes sur le site :
 - **techniques.html** : Explication des aspects techniques du projet, y compris l’implémentation en Java, l’utilisation de Swing pour l’affichage graphique et les défis rencontrés lors du développement.  
 - **resultats.html** : Analyse des résultats obtenus à partir de la simulation, avec des statistiques, observations et interprétations sur le comportement des petites bêtes dans l’environnement simulé.  
 
-## Installation et Utilisation
-Pour voir le site en ligne : https://ines-ysfi.github.io/InesYousfi/ ou bien https://lisaouy.github.io/lisaouyahia/." 
+Le site est accessible en ligne aux adresses suivantes :  
+🔗 [Version hébergée par Ines Yousfi](https://ines-ysfi.github.io/InesYousfi/)  
+🔗 [Version hébergée par Lisa Ouyahia](https://lisaouy.github.io/lisaouyahia/) 
